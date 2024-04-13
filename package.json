@@ -1,0 +1,19 @@
+{
+  "name": "redispubsub",
+  "version": "1.0.0",
+  "main": "Pub.js",
+  "scripts": {
+    "pub": "node Pub.js",
+    "sub": "node Sub.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "nexe": "^4.0.0-rc.4",
+    "pkg": "^5.8.1",
+    "redis": "^4.6.13"
+  }
+}
